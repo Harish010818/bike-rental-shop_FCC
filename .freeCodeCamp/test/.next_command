@@ -647,3 +647,4 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --uesername=freecodecamp --dbname=bikes
 psql --username=freecodecamp --dbname=bikes
+./bike-shop.sh
