@@ -889,3 +889,4 @@ echo "$(echo ' M e ' | sed 's/ *$//g')."
 echo "$(echo ' M e ' | sed 's/^ *//g | s/ *$//g')."
 echo "$(echo ' M e ' | sed 's/^ *//g' | 's/ *$//g')."
 echo "$(echo ' M e ' | sed 's/^ *| *$//g')."
+man sed
