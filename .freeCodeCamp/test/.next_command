@@ -935,3 +935,4 @@ clear
 ./bike-shop.sh
 ./bike-shop.sh
 psql --username=freecodecamp --dbname=bikes
+psql --username=freecodecamp --dbname=bikes
